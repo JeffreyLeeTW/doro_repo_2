@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "doro_2",
+  "name": "Doro",
+  "version": "1.0.0",
+  "categories": {
+    "dynamic":     { "description": "dynamic" },
+    "loop_2":      { "description": "loop_2" }
+  }
+}
